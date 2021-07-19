@@ -1,5 +1,4 @@
 # 3-Python-Projects
-
 ### Project 1: 
 * Player Registration Program
 * Solution of the quadric equation 
@@ -18,12 +17,10 @@
 * Automatic Teller Machine(ATM) 
 * Calculating the  factorial of a number 
 * Finding Fibonacci Series 
-
 ### Project 4:
 * Finding Perfect Number
 * Finding Armstrong Number 
 * The Multiplication Table
-
 ### Project 5:
 * Finding Prime Number 
 * Finding the submultiples of a number
@@ -33,10 +30,8 @@
 * Finding the list of Pythagorean triangle
 ### Project 6:
 * The Game of the Number Guessing
-
 ### Project 7:
 * Make an exam-result list by using file operations
-
 ### Project 8:
 * Calculate the area of rectangle
 * Whether rectangle or not
@@ -46,3 +41,9 @@
 * Finding the frequency of words in a text
 * find the first letters of lines of a poetry and paste to each other
 * finding mail list
+### Project 10:
+* Calculate the elapsed time of the process by using decorator function 
+* calculate odd, even and overall average by using DECORATOR FUNCTION
+* finding the prime and perfect number by using decorator function
+### Project 11:
+* Imdb top 250 film list and its rating by using request and BeautifulSoup
